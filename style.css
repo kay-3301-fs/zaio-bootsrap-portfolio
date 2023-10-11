@@ -70,3 +70,14 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+header {
+  background: black;
+  opacity: 70%;
+  }
+
+/* .scrolling {
+  background: black;
+  opacity: 80%;
+  transition: all 0.5s;
+} */
